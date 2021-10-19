@@ -1,2 +1,2 @@
 # Omnifood
-End Project of Udemy Course
+End Project of Udemy HTML Course
